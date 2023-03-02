@@ -1,4 +1,4 @@
-![MasterHead](https://d1yt8qkhp8oydd.cloudfront.net/ticbuy/img/ticpodsanc-plus-mic-wave-two.0.gif?e985c7a16845bff49f0b391db15b0edc)
+![MasterHead](https://rockfm92.com/wp-content/uploads/2020/10/nYxJ5cV.gif)
 
 <h1 align="center">Hi 👋🏼, I'm Felicia!</h1>
 <h3 align="center">I'm a sound designer gone software engineering student studying at Codam Coding College in Amsterdam.</h3>
