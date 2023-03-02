@@ -1,4 +1,3 @@
-https://www.pinterest.com/pin/tumblr--804596289648953015/
 <img align="right" alt="Coding" width="400" src="https://www.pinterest.com/pin/tumblr--804596289648953015/">
 <h1 align="center">Hi 👋🏼, I'm Felicia!</h1>
 <h3 align="center">I'm a sound designer gone software engineering student studying at Codam Coding College in Amsterdam.</h3>
