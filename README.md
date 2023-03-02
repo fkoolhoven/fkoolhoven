@@ -1,4 +1,4 @@
-[![MasterHead](https://global-uploads.webflow.com/5fac161927bf86485ba43fd0/6229d40f625c70840c12bcd7_BlogGif_2.gif)
+![MasterHead](https://global-uploads.webflow.com/5fac161927bf86485ba43fd0/6229d40f625c70840c12bcd7_BlogGif_2.gif)
 
 <h1 align="center">Hi 👋🏼, I'm Felicia!</h1>
 <h3 align="center">I'm a sound designer gone software engineering student studying at Codam Coding College in Amsterdam.</h3>
