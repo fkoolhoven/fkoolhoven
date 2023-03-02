@@ -1,7 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://www.concentinc.jp/wp-content/uploads/2021/08/253_06_dsh.gif">
-
-
-
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋🏼, I'm Felicia!</h1>
 <h3 align="center">I'm a sound designer gone software engineering student studying at Codam Coding College in Amsterdam.</h3>
