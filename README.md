@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Felicia!</h1>
 <h3 align="center">A sound designer gone software engineering student studying at Codam Coding College in Amsterdam.</h3>
 
-- 🌱 I’m currently learning **the legendary C programming language.**
+- 🌱 I’m currently learning the legendary C programming language.
 
-- 📫 Connect with me through LinkedIn: **www.linkedin.com/in/felicia-koolhoven-544329259**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
