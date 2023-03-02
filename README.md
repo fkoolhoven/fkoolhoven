@@ -1,4 +1,4 @@
-![MasterHead](https://rockfm92.com/wp-content/uploads/2020/10/nYxJ5cV.gif)
+![MasterHead](https://i.gifer.com/2MDu.gif)
 
 <h1 align="center">Hi 👋🏼, I'm Felicia!</h1>
 <h3 align="center">I'm a sound designer gone software engineering student studying at Codam Coding College in Amsterdam.</h3>
