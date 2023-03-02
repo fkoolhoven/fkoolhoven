@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Felicia!</h1>
 <h3 align="center">I'm a sound designer gone software engineering student studying at Codam Coding College in Amsterdam.</h3>
 
-- 🌱 I’m currently learning **the legendary C programming language.**
+- 🌱 I’m currently learning the legendary C programming language.
 
-- 👨‍💻 I would like to learn more about [audio programming!](audio programming!)
+- 👨‍💻 I would like to learn more about audio programming!
 
-- 🔭 Always looking for ways to **improve my coding skills.**
+- 🔭 Always looking for ways to improve my code.
 
-- ⚡ Outside of programming I enjoy **reading, making music, bouldering and nerding out about films.**
+- ⚡ Outside of programming I enjoy reading, making music, bouldering and nerding out about films.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
