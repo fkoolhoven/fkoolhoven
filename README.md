@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.dribbble.com/users/846207/screenshots/6450707/audio_spectrum_line_animation.gif)
+![MasterHead](https://d1yt8qkhp8oydd.cloudfront.net/ticbuy/img/ticpodsanc-plus-mic-wave-two.0.gif?e985c7a16845bff49f0b391db15b0edc)
 
 <h1 align="center">Hi 👋🏼, I'm Felicia!</h1>
 <h3 align="center">I'm a sound designer gone software engineering student studying at Codam Coding College in Amsterdam.</h3>
