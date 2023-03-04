@@ -1,7 +1,7 @@
 ![MasterHead](https://www.listory.com/static/media/waveform-gradient.eedc1682.gif)
 
 <h1 align="center">Hi 👋🏼, I'm Felicia!</h1>
-<h3 align="center">I'm a sound designer gone software engineering student, studying at Codam Coding College in Amsterdam.</h3>
+<h3 align="center">I'm a sound designer gone software engineer, studying at Codam Coding College in Amsterdam.</h3>
 
 - 🌱 I’m currently learning the legendary C programming language.
 
