@@ -11,6 +11,11 @@
 
 - ⚡ Outside of programming I enjoy reading, making music, climbing and nerding out about films.
 
+#Projects I recently finished:
+- [fractol](https://github.com/fkoolhoven/fractol): This project is about creating graphically beautiful fractals.
+- [push_swap](https://github.com/fkoolhoven/push_swap): Sorting data on a stack using the lowest possible number of actions.
+- [pipex](https://github.com/fkoolhoven/pipex): Recoding the pipe (|) operator with system calls only.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/felicia-koolhoven-544329259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felicia-koolhoven-544329259" height="30" width="40" /></a>
