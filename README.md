@@ -3,6 +3,7 @@
 <h1 align="center">Hi 👋🏼, I'm Felicia!</h1>
 <h3 align="center">I'm a sound designer gone software engineer, studying at Codam Coding College in Amsterdam.</h3>
 
+
 - 🌱 I’m currently learning the legendary C programming language.
 
 - 🔊 I would like to learn more about audio programming!
