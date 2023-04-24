@@ -14,9 +14,9 @@
 <h3 align="left">Projects I recently finished:</h3>
 
 - [fractol](https://github.com/fkoolhoven/fractol): This project is about creating graphically beautiful fractals.
-- 
+
 - [push_swap](https://github.com/fkoolhoven/push_swap): Sorting data on a stack using the lowest possible number of actions.
-- 
+
 - [pipex](https://github.com/fkoolhoven/pipex): Recoding the pipe (|) operator with system calls only.
 
 <h3 align="left">Connect with me:</h3>
