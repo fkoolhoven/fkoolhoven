@@ -14,6 +14,8 @@
 
 <h3 align="left">Projects I recently finished:</h3>
 
+- :spaghetti: [philosophers](https://github.com/fkoolhoven/philosophers): Solving a version of the [dining philosophers problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem) using threads and mutexes.
+
 - :snowflake: [fractol](https://github.com/fkoolhoven/fractol): This project is about creating graphically beautiful fractals.
 
 - :arrow_up: [push_swap](https://github.com/fkoolhoven/push_swap): Sorting data on a stack using the lowest possible number of actions.
