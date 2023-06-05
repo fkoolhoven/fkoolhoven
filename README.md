@@ -26,9 +26,7 @@
 
 - :page_facing_up: [get_next_line](https://github.com/fkoolhoven/get_next_line): Reads one line at the time from a specified file descriptor.
 
- <br>
- &ensp;&ensp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fkoolhoven&layout=compact&bg_color=EEC4C9&title_color=636969&text_color=636969)
- <br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apifkoolhoven=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
