@@ -26,7 +26,7 @@
 
 - :page_facing_up: [get_next_line](https://github.com/fkoolhoven/get_next_line): Reads one line at the time from a specified file descriptor.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apifkoolhoven=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fkoolhoven)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
