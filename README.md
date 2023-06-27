@@ -25,14 +25,3 @@
 - 🖨 [ft_printf](https://github.com/fkoolhoven/ft_printf): Recoding the C standard printf function.
 
 - :page_facing_up: [get_next_line](https://github.com/fkoolhoven/get_next_line): Reads one line at the time from a specified file descriptor.
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/felicia-koolhoven-544329259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felicia-koolhoven-544329259" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
-
