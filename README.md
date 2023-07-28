@@ -4,13 +4,15 @@
 <h3 align="left">I'm a sound designer gone software engineer, studying at Codam Coding College in Amsterdam.</h3>
 
 
-- 🌱 I’m currently learning the legendary C programming language.
+- 🌱 I’m currently learning the legendary C and C++ programming languages at Codam.
 
-- 🔊 I would like to learn more about audio programming!
+- 🎒 Besides that I am also taking online courses in web development and data
+
+- 🎨 I enjoy creative coding and will soon share some personal projects that I'm proud of
 
 - 🔍 Always looking for ways to improve my code.
 
-- ⚡ Outside of programming I enjoy reading, making music, climbing and nerding out about films.
+- ⚡ Outside of programming I enjoy reading, making music, outdoor life, climbing and nerding out about films.
 
 <h3 align="left">Projects I recently finished:</h3>
 
