@@ -32,3 +32,5 @@
 
 - :ocean: [flowfield](https://github.com/fkoolhoven/fkoolhoven.github.io): An interactive flow field website that let's you create your own art.
 
+- :unlock: [C++ Modules](https://github.com/fkoolhoven/Cpp-Modules): Getting a strong understanding of C++ and object-oriented programming.
+
