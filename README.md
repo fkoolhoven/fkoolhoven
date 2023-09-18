@@ -1,4 +1,4 @@
-![MasterHead](https://www.listory.com/static/media/waveform-gradient.eedc1682.gif)
+
 
 <h1 align="center">Hi 👋🏼, I'm Felicia!</h1>
 <h3 align="left">I'm a sound designer gone software engineer, studying at Codam Coding College in Amsterdam.</h3>
@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning the legendary C and C++ programming languages at Codam.
 
-- 🎒 Besides that I am also taking online courses in web development and data
+- 🎒 Besides that I am also taking online courses in web development and data/SQL
 
 - 🎨 I enjoy creative coding and will soon share some personal projects that I'm proud of
 
