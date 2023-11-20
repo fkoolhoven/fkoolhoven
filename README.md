@@ -12,7 +12,7 @@
 
 - 🔍 Always looking for ways to improve my code
 
-- ⚡ Outside of studies and work I enjoy reading, making music, creative coding, outdoor life, climbing and nerding out about films
+- ⚡ Outside of studies and work I enjoy reading, making music, creative coding, climbing and nerding out about films
 
 <h3 align="left">Projects I recently finished:</h3>
 
