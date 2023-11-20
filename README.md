@@ -8,11 +8,11 @@
 
 - 🎒 Besides that I am also taking online courses in web development and data/SQL
 
-- 🎨 I enjoy creative coding
+- :office: I work part time at [ChipSoft](https://www.chipsoft.nl/) where I use mostly CSS, HTML and C#
 
 - 🔍 Always looking for ways to improve my code
 
-- ⚡ Outside of programming I enjoy reading, making music, outdoor life, climbing and nerding out about films
+- ⚡ Outside of studies and work I enjoy reading, making music, creative coding, outdoor life, climbing and nerding out about films
 
 <h3 align="left">Projects I recently finished:</h3>
 
@@ -24,13 +24,13 @@
 
 - :recycle: [pipex](https://github.com/fkoolhoven/pipex): Recoding the pipe (|) operator with system calls only
 
-- 🖨 [ft_printf](https://github.com/fkoolhoven/ft_printf): Recoding the C standard printf function
-
-- :page_facing_up: [get_next_line](https://github.com/fkoolhoven/get_next_line): Reads one line at the time from a specified file descriptor
+Check my repo's for more!
 
 <h3 align="left">Currently working on:</h3>
 
 - :ocean: [flowfield](https://github.com/fkoolhoven/fkoolhoven.github.io): An interactive flow field website that let's you create your own art (CSS, HTML, JavaScript)
 
-- :unlock: [C++ Modules](https://github.com/fkoolhoven/Cpp-Modules): Getting a strong understanding of C++ and object-oriented programming
+- :unlock: Cpp-modules: Getting a strong understanding of C++ and object-oriented programming
+
+- 🐚 Minishell: Creating a simple version of the Bash shell (group project with [Jagna Hendriks](https://github.com/jshendriks))
 
