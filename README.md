@@ -4,7 +4,7 @@
 <h3 align="left">I'm a sound designer gone software engineer, studying at Codam Coding College in Amsterdam.</h3>
 
 
-- 🌱 I’m currently learning the legendary C and C++ programming languages at Codam
+- 🌱 I’m currently learning the legendary C and C++ programming languages at [Codam](https://www.codam.nl/)
 
 - 🎒 Besides that I am also taking online courses in web development and data/SQL
 
