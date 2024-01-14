@@ -24,6 +24,8 @@
 
 - :recycle: [pipex](https://github.com/fkoolhoven/pipex): Recoding the pipe (|) operator with system calls only
 
+- 🐚 [Minishell](https://github.com/fkoolhoven/Minishell): Creating our own version of the Bash shell (group project with [Jagna Hendriks](https://github.com/jshendriks))
+
 Check my repo's for more!
 
 <h3 align="left">Currently working on:</h3>
@@ -32,5 +34,5 @@ Check my repo's for more!
 
 - :unlock: Cpp-modules: Getting a strong understanding of C++ and object-oriented programming
 
-- 🐚 Minishell: Creating a simple version of the Bash shell (group project with [Jagna Hendriks](https://github.com/jshendriks))
+- :sunny: Mini-RT: Graphics project, writing a raytracer in C from scratch (group project with [Cris van Schijndel](https://github.com/cristje21))
 
