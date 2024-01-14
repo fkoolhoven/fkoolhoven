@@ -8,7 +8,7 @@
 
 - 🎒 Besides that I am also taking online courses in web development and data/SQL
 
-- :office: I work part time at [ChipSoft](https://www.chipsoft.nl/) where I use mostly CSS, HTML and C#
+- :office: I work part time at [ChipSoft](https://www.chipsoft.nl/) where I use mostly CSS, HTML, C# and SQL
 
 - 🔍 Always looking for ways to improve my code
 
