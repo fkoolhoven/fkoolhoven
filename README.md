@@ -32,7 +32,7 @@ Check my repo's for more!
 
 - :ocean: [flowfield](https://github.com/fkoolhoven/fkoolhoven.github.io): An interactive flow field website that let's you create your own art (CSS, HTML, JavaScript)
 
-- :unlock: Cpp-modules: Getting a strong understanding of C++ and object-oriented programming
+- :unlock: [cpp-modules](https://github.com/fkoolhoven/Cpp-Modules): Getting a strong understanding of C++ and object-oriented programming
 
 - :sunny: Mini-RT: Graphics project, writing a raytracer in C from scratch (group project with [Cris van Schijndel](https://github.com/cristje21))
 
