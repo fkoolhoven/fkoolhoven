@@ -34,5 +34,5 @@ Check my repo's for more!
 
 - :unlock: [cpp-modules](https://github.com/fkoolhoven/Cpp-Modules): Getting a strong understanding of C++ and object-oriented programming
 
-- :sunny: Mini-RT: Graphics project, writing a raytracer in C from scratch (group project with [Cris van Schijndel](https://github.com/cristje21))
+- :sunny: mini-RT: Graphics project, writing a raytracer in C from scratch (group project with [Cris van Schijndel](https://github.com/cristje21))
 
