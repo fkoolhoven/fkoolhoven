@@ -17,7 +17,7 @@
 <h3 align="left">Projects I recently finished:</h3>
 
 - :unlock: [cpp-modules](https://github.com/fkoolhoven/Cpp-Modules): Getting a strong understanding of C++ and object-oriented programming
-- 
+
 - :spaghetti: [philosophers](https://github.com/fkoolhoven/philosophers): Solving a version of the [dining philosophers problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem) using threads and mutexes
 
 - :snowflake: [fractol](https://github.com/fkoolhoven/fractol): This project is about creating graphically beautiful fractals
