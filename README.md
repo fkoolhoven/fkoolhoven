@@ -16,6 +16,8 @@
 
 <h3 align="left">Projects I recently finished:</h3>
 
+- :unlock: [cpp-modules](https://github.com/fkoolhoven/Cpp-Modules): Getting a strong understanding of C++ and object-oriented programming
+- 
 - :spaghetti: [philosophers](https://github.com/fkoolhoven/philosophers): Solving a version of the [dining philosophers problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem) using threads and mutexes
 
 - :snowflake: [fractol](https://github.com/fkoolhoven/fractol): This project is about creating graphically beautiful fractals
@@ -32,7 +34,4 @@ Check my repo's for more!
 
 - :ocean: [flowfield](https://github.com/fkoolhoven/fkoolhoven.github.io): An interactive flow field website that let's you create your own art (CSS, HTML, JavaScript)
 
-- :unlock: [cpp-modules](https://github.com/fkoolhoven/Cpp-Modules): Getting a strong understanding of C++ and object-oriented programming
-
 - :sunny: mini-RT: Graphics project, writing a raytracer in C from scratch (group project with [Cris van Schijndel](https://github.com/cristje21))
-
