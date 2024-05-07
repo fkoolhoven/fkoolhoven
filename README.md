@@ -38,4 +38,4 @@ Check my repo's for more!
 
 - :whale2: inception: Broadening my knowledge of system administration by using Docker
 
-- :electric_plug: webserv: Writing and HTTP server in C++ (group project with [Marès Verbrugge](https://github.com/maresverbrugge) and [Flen Huisman](https://github.com/fhuisman))
+- :electric_plug: [webserv](https://github.com/fkoolhoven/webserv): Writing and HTTP server in C++ (group project with [Marès Verbrugge](https://github.com/maresverbrugge) and [Flen Huisman](https://github.com/fhuisman))
