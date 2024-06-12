@@ -18,6 +18,8 @@
 
 - :unlock: [cpp-modules](https://github.com/fkoolhoven/Cpp-Modules): Getting a strong understanding of C++ and object-oriented programming
 
+- :sunny: [mini-RT](https://github.com/fkoolhoven/miniRT): Graphics project, writing a raytracer in C from scratch
+
 - :spaghetti: [philosophers](https://github.com/fkoolhoven/philosophers): Solving a version of the [dining philosophers problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem) using threads and mutexes
 
 - :snowflake: [fractol](https://github.com/fkoolhoven/fractol): This project is about creating graphically beautiful fractals
@@ -33,8 +35,6 @@ Check my repo's for more!
 <h3 align="left">Currently working on:</h3>
 
 - :ocean: [flowfield](https://github.com/fkoolhoven/fkoolhoven.github.io): An interactive flow field website that let's you create your own art (CSS, HTML, JavaScript)
-
-- :sunny: [mini-RT](https://github.com/fkoolhoven/miniRT): Graphics project, writing a raytracer in C from scratch (group project with [Cris van Schijndel](https://github.com/cristje21))
 
 - :whale2: inception: Broadening my knowledge of system administration by using Docker
 
