@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning the legendary C and C++ programming languages at [Codam](https://www.codam.nl/)
 
-- 🎒 Besides that I am also taking online courses in web development and data/SQL
+- 🎒 Besides that I also completed online courses in web development and data/SQL
 
 - :office: I work part time at [ChipSoft](https://www.chipsoft.nl/) where I use mostly CSS, HTML, C# and SQL
 
