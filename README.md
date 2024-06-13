@@ -16,6 +16,8 @@
 
 <h3 align="left">Projects I recently finished:</h3>
 
+- :surfer: [webserv](https://github.com/fkoolhoven/webserv): Writing an HTTP server in C++ (group project with [Marès Verbrugge](https://github.com/maresverbrugge) and [Flen Huisman](https://github.com/fhuisman))
+
 - :unlock: [cpp-modules](https://github.com/fkoolhoven/Cpp-Modules): Getting a strong understanding of C++ and object-oriented programming
 
 - :sunny: [mini-RT](https://github.com/fkoolhoven/miniRT): Graphics project, writing a raytracer in C from scratch
@@ -37,5 +39,3 @@ Check my repo's for more!
 - :ocean: [flowfield](https://github.com/fkoolhoven/fkoolhoven.github.io): An interactive flow field website that let's you create your own art (CSS, HTML, JavaScript)
 
 - :whale2: inception: Broadening my knowledge of system administration by using Docker
-
-- :electric_plug: [webserv](https://github.com/fkoolhoven/webserv): Writing an HTTP server in C++ (group project with [Marès Verbrugge](https://github.com/maresverbrugge) and [Flen Huisman](https://github.com/fhuisman))
