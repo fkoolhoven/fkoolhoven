@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning the legendary C and C++ programming languages at [Codam](https://www.codam.nl/)
 
-- 🎒 Besides that I also completed online courses in web development and data/SQL
+- 🎒 Besides that I have also completed online courses in web development and data/SQL
 
-- :office: I work part time at [ChipSoft](https://www.chipsoft.nl/) where I use mostly CSS, HTML, C# and SQL
+- :office: I am currently an intern at [Sonos](https://www.sonos.com/en-us/home)
 
 - 🔍 Always looking for ways to improve my code
 
