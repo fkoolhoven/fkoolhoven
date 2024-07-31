@@ -36,6 +36,8 @@ Check my repo's for more!
 
 <h3 align="left">Currently working on:</h3>
 
+- :crystal_ball: [transcendence](https://github.com/maresverbrugge/Transcendence): A website with a chat and real-time multiplayer online game (group project)
+
 - :ocean: [flowfield](https://github.com/fkoolhoven/fkoolhoven.github.io): An interactive flow field website that let's you create your own art (CSS, HTML, JavaScript)
 
 - :whale2: inception: Broadening my knowledge of system administration by using Docker
