@@ -1,14 +1,14 @@
 
 
 <h1 align="center">Hi 👋🏼, I'm Felicia!</h1>
-<h3 align="left">I'm a sound designer gone software engineer, studying at Codam Coding College in Amsterdam.</h3>
+<h3 align="left">I'm a sound designer gone software engineer!</h3>
 
 
-- 🌱 I’m learning the legendary C and C++ programming languages at [Codam](https://www.codam.nl/)
+- 🌱 I’m learned the legendary C and C++ programming languages at [Codam](https://www.codam.nl/)
 
 - 🎒 Besides that I have also completed online courses in web development and data/SQL
 
-- :office: I am currently a full-time intern at [Sonos](https://www.sonos.com/en-us/home)
+- :office: I am currently a full-time Graduate Software Engineering at [Sonos](https://www.sonos.com/en-us/home)
 
 - 🔍 Always looking for ways to improve my code
 
