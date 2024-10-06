@@ -8,7 +8,7 @@
 
 - 🎒 Besides that I have also completed online courses in web development and data/SQL
 
-- :office: I am currently a full-time Graduate Software Engineering at [Sonos](https://www.sonos.com/en-us/home)
+- :office: I am currently a full-time Graduate Software Engineer at [Sonos](https://www.sonos.com/en-us/home)
 
 - 🔍 Always looking for ways to improve my code
 
