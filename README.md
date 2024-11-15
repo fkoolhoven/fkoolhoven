@@ -4,7 +4,7 @@
 <h3 align="left">I'm a sound designer gone software engineer!</h3>
 
 
-- 🌱 I’m learned the legendary C and C++ programming languages at [Codam](https://www.codam.nl/)
+- 🌱 I learned the legendary C and C++ programming languages at [Codam](https://www.codam.nl/)
 
 - 🎒 Besides that I have also completed online courses in web development and data/SQL
 
