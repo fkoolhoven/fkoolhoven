@@ -1,13 +1,11 @@
+<h1 align="left">Hi 👋🏼, I'm Felicia!</h1>
 
+* 🏢 I'm currently working as a full-time **Scala/Kotlin Developer** (the company that I work for is transitioning to Kotlin)
 
-<h1 align="center">Hi 👋🏼, I'm Felicia!</h1>
+* 🌱 I studied Software Engineering, with a strong foundation in C and C++
 
-- :sound: A couple of years ago I transitioned from a career in sound design to software engineering
+* ⚙️ I'm interested in backend systems, clean architecture, and building reliable services
 
-- :seedling: I studied at [Codam College](https://www.codam.nl/en/), where I used mostly C and C++
+* 🎬 Outside of work I enjoy reading, making music, running, and nerding out about films 
 
-- :office: Currently working as a full-time Backend/Scala Developer at [Vandebron](https://www.linkedin.com/company/vandebron/posts/?feedView=all)
-
-- 🔍 Always looking for ways to improve my code
-
-- ⚡ Outside of work I enjoy reading, making music, creative coding, climbing and nerding out about films
+You can find my contact details in my profile!
