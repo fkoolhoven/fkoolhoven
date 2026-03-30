@@ -4,7 +4,7 @@
 
 * 🌱 I studied Software Engineering, with a strong foundation in C and C++
 
-* ⚙️ I'm interested in backend systems, clean architecture, and building reliable services
+* ⚙️ I'm interested in backend development and building reliable services
 
 * 🎬 Outside of work I enjoy reading, making music, running, and nerding out about films 
 
